@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.aj.cowsandbullsassessment.data.GameDaoDBImplTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 16.375 s - in com.aj.cowsandbullsassessment.data.GameDaoDBImplTest
